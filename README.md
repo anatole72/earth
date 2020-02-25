@@ -1,2 +1,1 @@
-# ![earth animation]
-(earth_20skr.jpg)
+# ![earth animation](earth_20skr.jpg)
